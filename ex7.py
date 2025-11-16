@@ -1,5 +1,6 @@
-x = int(input("idade:"))
-if x >= 18:
-    print("maior de idade")
+x = int(input("x:"))
+y = int(input("y:"))
+if x >= y:
+    print("x e maior")
 else:
-    print("menor de idade")
+    print("x e menor")

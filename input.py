@@ -1,0 +1,6 @@
+x = int(input("qual e o valor de x?"))
+y =  int(input("qual e o valor de y?"))
+print("soma =", x+y)
+print("subtracao =", x-y)
+print("multiplicacao =", x*y)
+print("divisao =", x/y)

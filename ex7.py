@@ -1,2 +1,5 @@
-for i in range(1/1/2017,30/12/2020):
-    print(i * 1)
+x = int(input("idade:"))
+if x >= 18:
+    print("maior de idade")
+else:
+    print("menor de idade")

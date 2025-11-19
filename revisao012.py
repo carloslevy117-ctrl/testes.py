@@ -1,3 +1,6 @@
 minha_lista = [1,2,3,4,5,"Levy"]
-for i in minha_lista:
-    print(i)
+
+print(minha_lista[0])
+print(minha_lista[1])
+print(minha_lista[2])
+print(minha_lista[3])
